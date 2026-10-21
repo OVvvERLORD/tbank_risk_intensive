@@ -32,4 +32,4 @@
     - ALM и финансовые риски
     - Антифрод и страхование
 
-[tbank_risk_certificate_bartia.pdf](tbank_risk_certificate_bartia.pdf)
+![alt text](tbank_risk_certificate_bartia-1.jpg)
